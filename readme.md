@@ -1,5 +1,5 @@
 # Handwired Lily58 Build Guide
-![img](./images/keeb.webp)
+![img](./images/keeb.jpg)
 <br>
 This build was pretty cheap and costed me around 3k rupees or about 40$
 
