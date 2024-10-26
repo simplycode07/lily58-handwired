@@ -24,7 +24,6 @@ For building this keyboard, you need the following tools and parts, and you shou
 - 12 WS2812B RGB
 - Acrylic Sheet and Access to a laser cutter
 
-
 #### 1. Case
 Fusion Files and stls are Available in [design files](./design%20files)
 
